@@ -23,6 +23,8 @@ public class stringReverse {
 		String s1=sc.next();
 		
 		System.out.println("The reversed string is "+problem1(s1));
+		
+		System.out.println("Branch 1");
 
 	}
 
